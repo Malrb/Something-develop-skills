@@ -7,3 +7,4 @@ for(var i, j = 0; i = mySelect.options[j]; j++) {
         break;
     }
 }
+//若資料刻在前版上 可利用js控制對比資料迴圈做篩選並"selected"

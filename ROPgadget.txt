@@ -1,0 +1,4 @@
+cp /usr/local/lib/python2.7/dist-packages/usr/lib/python2.7/dist-packages/capstone/libcapstone.so /usr/local/lib/python2.7/dist-packages/capsto
+ne/.
+
+/* --* If ROPgadget isn't work with library link problem. Just paste code above into command *-- */
